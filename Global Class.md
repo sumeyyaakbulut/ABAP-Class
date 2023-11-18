@@ -12,9 +12,9 @@ Se24 üzerin de oluşturulup diğer programlara entegre edilip kullanılabilir.S
 * Protected: class'ın kendisinden ve classtan inheritance edilmiş diğer classlar tarafından erişilebilir.
 * Abstract Soyut sınıf oluşturmak için kullanılır. 
 * Class oluşturulduktan sonra 8 toolbar bulunmaktadır.
-  ![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/37152898-d04c-4413-94bf-d05711a71869)
+![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/37152898-d04c-4413-94bf-d05711a71869)
 
-Properties oluşturduğumuz class'ın özelliklerini gösterir.
+* Properties oluşturduğumuz class'ın özelliklerini gösterir.
 
 ## 1-Method
 Methodları perform gibi düşünebiliriz. O zaman methodları anlatmaya başlayalım.
