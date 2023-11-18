@@ -20,3 +20,20 @@ Static olarak tanımlamak istersek method veya data önüne class getirmeliyiz.
 
 ![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/5e051c56-d9ec-4e4d-965e-d62c68bd8094)
 
+Local Olarak tanımlanan class proje de kullanımı
+
+![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/b29ddb7e-ba71-4c70-a11d-31189a22872f)
+
+Local olarak tanımladığımız class programda kullanabilmek için data sonra class vermek
+İstediğimiz isim ve type ref to ile oluşturduğumuz local class ismi yazılır.
+Classımız da instance method lar olduğu için de  create ile obje tanımlanır.
+
+![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/0cbce460-bd27-4e4a-8e91-2daeb60761fd)
+
+
+Class da implementation kısmında tanımladığımız tüm değişkenlere erişebiliriz .
+(public protected private)
+
+
+![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/b3ed1a52-9964-4c01-b3c3-5de818c78fa2)
+
