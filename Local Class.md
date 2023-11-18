@@ -34,6 +34,6 @@ Classımız da instance method lar olduğu için de  create ile obje tanımlanı
 Class da implementation kısmında tanımladığımız tüm değişkenlere erişebiliriz .
 (public protected private)
 
+![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/94f83683-ecb4-4dd3-9974-93c47015c756)
 
-![image](https://github.com/sumeyyaakbulut/ABAP-Class/assets/62395974/b3ed1a52-9964-4c01-b3c3-5de818c78fa2)
 
